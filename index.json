@@ -1,7 +1,7 @@
 {
     "aliases": [],
     "recipes": {
-      "emitlab/response-listener": [ "0.0.1" ]
+      "emitlab/auth-bundle": [ "0.0.1" ]
     },
     "recipe-conflicts": [],
     "versions": {
