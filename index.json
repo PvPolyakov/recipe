@@ -8,9 +8,9 @@
         "splits": []
     },
     "branch": "main",
-    "is_contrib": true,
+    "is_contrib": false,
     "_links": {
-        "repository": "github.com/PvPolyakov/recipe",
+        "repository": "github.com/PvPolyakov/recipe:main",
          "origin_template": "{package}:{version}@github.com/PvPolyakov/recipe:main",
         "recipe_template": "https://api.github.com/repos/PvPolyakov/recipe/contents/{package_dotted}.{version}.json"
     }
