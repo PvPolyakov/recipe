@@ -1,5 +1,25 @@
 {
-    "bundles": {
-        "Jose\\Bundle\\JoseFramework\\JoseFrameworkBundle": ["all"]
+    "manifests": {
+        "emitlab/auth-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Acme\\PrivateBundle\\AcmePrivateBundle": [
+                        "all"
+                    ]
+                },
+             
+            },
+            "files": {
+                "config/packages/acme_private.yaml": {
+                    "contents": [
+                        "acme_private:",
+                        "    encode: true",
+                        ""
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff00"
+        }
     }
 }
