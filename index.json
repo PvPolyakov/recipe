@@ -8,7 +8,7 @@
         "splits": []
     },
     "branch": "main",
-    "is_contrib": false,
+    "is_contrib": true,
     "_links": {
         "repository": "github.com/PvPolyakov/recipe",
          "origin_template": "{package}:{version}@github.com/PvPolyakov/recipe:main",
