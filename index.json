@@ -1,0 +1,15 @@
+{
+    "aliases": [],
+    "recipes": {
+      "emitlab/response-listener": [ "0.0.1" ]
+    },
+    "recipe-conflicts": [],
+    "versions": {
+        "splits": []
+    },
+    "branch": "main",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/PvPolyakov/recipe"
+    }
+}
