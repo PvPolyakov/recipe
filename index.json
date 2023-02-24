@@ -8,7 +8,6 @@
     "is_contrib": true,
     "_links": {
         "repository": "github.com/PvPolyakov/recipe",
-        "origin_template": "{package}:{version}@github.com/PvPolyakov/recipe:main",
         "recipe_template": "https://api.github.com/repos/PvPolyakov/recipe/contents/{package_dotted}.{version}.json"
     }
 }
