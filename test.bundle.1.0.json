@@ -7,7 +7,9 @@
                         "all"
                     ]
                 },
-             
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                }
             },
             "files": {
                 "config/packages/acme_private.yaml": {
