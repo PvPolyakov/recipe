@@ -1,13 +1,13 @@
 {
     "aliases": [],
     "recipes": {
-      "emitlab/auth-bundle": [ "0.0.1" ]
+      "test/bundle": [ "1.0" ]
     },
     "recipe-conflicts": [],
     "versions": {
         "splits": []
     },
-    "branch": "main!!!",
+    "branch": "main",
     "is_contrib": false,
     "_links": {
         "repository": "github.com/PvPolyakov/recipe:main",
